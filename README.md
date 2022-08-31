@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m currently working on my skills to work on data analysis
-Possibly I will be carrying out different projects based on this theme
-Thank you for visiting, I hope to publish more projects
+<p>I’m currently working on my skills to work on data analysis</p>
+<p>Possibly I will be carrying out different projects based on this theme</p>
+<p>Thank you for visiting, I hope to publish more projects</p>
